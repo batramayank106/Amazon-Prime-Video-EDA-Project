@@ -23,7 +23,7 @@ amazon-prime-eda-project/
 |   |-- top_directors.png
 |   |-- correlation_heatmap.png
 |   |-- missing_correlation.png
-
+|
 |-- interactive_charts/             # Plotly charts as HTML (open locally)
 |   |-- content_growth_timeline.html
 |   |-- movie_vs_tv.html
@@ -36,7 +36,7 @@ amazon-prime-eda-project/
 |   |-- runtime_by_genre.html
 |   |-- country_genre_sunburst.html
 |
-
+|
 |-- README.md
 |-- LICENSE
 |-- .gitignore
